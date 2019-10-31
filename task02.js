@@ -7,4 +7,5 @@ figlet.text(text, function(error, data) {
     } else {
         console.log(data);
     }
+    console.log('sssfsfs');
 });
